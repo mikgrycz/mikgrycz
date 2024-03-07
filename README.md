@@ -10,9 +10,10 @@ I'm a software engineer with a passion towards Machine Learning, currently study
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mikgrycz&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikgrycz&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mikgrycz&show_icons=true&theme=tokyonight" height="195">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikgrycz&layout=compact" height="195">
+</p>
 
 ## 📫 How to reach me
 You can reach me at mikolajgrycz@gmail.com, or on [LinkedIn](https://www.linkedin.com/in/mikołaj-grycz-964235185)
