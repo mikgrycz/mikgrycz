@@ -12,7 +12,7 @@ I'm a software engineer with a passion towards Machine Learning, currently study
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mikgrycz&show_icons=true&theme=tokyonight" height="195">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikgrycz&layout=compact" height="195">
 </p>
 
@@ -24,8 +24,8 @@ You can reach me at mikolajgrycz@gmail.com, or on [LinkedIn](https://www.linkedi
 - [Typing Speed Measuring App](https://github.com/mikgrycz/Typing-Speed-Measuring-App)
 
 ## 💼 Where I am currently working at/ studying
-- [Pegasystems](https://www.pega.com) Working on an application supporting the learning process that utilizes Generative AI to create a knowledge assessment test based on entered topics. (university project)
-- [Jagielloński University](https://en.uj.edu.pl)
+- [Pegasystems](https://www.pega.com): Working on an application supporting the learning process that utilizes Generative AI to create a knowledge assessment test based on entered topics. (university project)
+- [Jagielloński University](https://en.uj.edu.pl): Computer Science
   
 ## 📚 What I am currently learning
 - Diving into ML
