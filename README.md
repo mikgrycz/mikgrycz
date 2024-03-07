@@ -13,11 +13,11 @@ I'm a software engineer with a passion towards Machine Learning, currently study
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mikgrycz&show_icons=true&theme=tokyonight)
 
 ## 📫 How to reach me
-You can reach me at [mikolajgrycz@gmail.com], or on [LinkedIn](www.linkedin.com/in/mikołaj-grycz-964235185)
+You can reach me at mikolajgrycz@gmail.com, or on [LinkedIn](https://www.linkedin.com/in/mikołaj-grycz-964235185)
 
 ## 🚀 Some of my main projects
-- (Car-selling-platform(https://github.com/mikgrycz/Car-selling-platform))
-- (Typing-Speed-Measuring-App(https://github.com/mikgrycz/Typing-Speed-Measuring-App))
+- [Car Selling Platform](https://github.com/mikgrycz/Car-selling-platform)
+- [Typing Speed Measuring App](https://github.com/mikgrycz/Typing-Speed-Measuring-App)
 
 ## 💼 Where I am currently working at/ studying
 - Jagielloński University
@@ -25,7 +25,6 @@ You can reach me at [mikolajgrycz@gmail.com], or on [LinkedIn](www.linkedin.com/
 
 ## 📚 What I am currently learning
 - Diving into ML
-
 <!--
 **mikgrycz/mikgrycz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
