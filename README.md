@@ -10,7 +10,7 @@ I'm a software engineer with a passion towards Machine Learning, currently study
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikgrycz&layout=compact" height="195">
 </p>
 
