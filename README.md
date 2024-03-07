@@ -11,6 +11,9 @@ I'm a software engineer with a passion towards Machine Learning, currently study
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mikgrycz&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikgrycz&layout=compact)
+![WakaTime](https://github.com/mikgrycz/mikgrycz/blob/main/images/stat.svg)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=mikgrycz&bg_color=ffffff&color=7389D8&line=7389D8&point=00bbf9&area=true&hide_border=true)
 
 ## 📫 How to reach me
 You can reach me at mikolajgrycz@gmail.com, or on [LinkedIn](https://www.linkedin.com/in/mikołaj-grycz-964235185)
