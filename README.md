@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mikołaj
+# Hi there 👋 I'm Mikołaj
 
 I'm a software engineer with a passion towards Machine Learning, currently studying at Jagielloński University.
 
