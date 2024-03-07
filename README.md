@@ -12,7 +12,7 @@ I'm a software engineer with a passion towards Machine Learning, currently study
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mikgrycz&show_icons=true&theme=tokyonight" height="195">
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikgrycz&layout=compact" height="195">
 </p>
 
