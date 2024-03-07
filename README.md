@@ -24,9 +24,9 @@ You can reach me at mikolajgrycz@gmail.com, or on [LinkedIn](https://www.linkedi
 - [Typing Speed Measuring App](https://github.com/mikgrycz/Typing-Speed-Measuring-App)
 
 ## 💼 Where I am currently working at/ studying
-- Jagielloński University
-- Pega - Working on an application supporting the learning process that utilizes Generative AI to create a knowledge assessment test based on entered topics. (university project)
-
+- [Pegasystems](https://www.pega.com) Working on an application supporting the learning process that utilizes Generative AI to create a knowledge assessment test based on entered topics. (university project)
+- [Jagielloński University](https://en.uj.edu.pl)
+  
 ## 📚 What I am currently learning
 - Diving into ML
 <!--
