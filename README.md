@@ -1,4 +1,4 @@
-# Hello there 👋 I'm Mikołaj
+# Hello there! I'm Mikołaj
 
 I'm a software engineer with a passion towards Machine Learning, currently studying at Jagielloński University.
 
@@ -22,6 +22,7 @@ You can reach me at mikolajgrycz@gmail.com, or on [LinkedIn](https://www.linkedi
 - [Typing Speed Measuring App](https://github.com/mikgrycz/Typing-Speed-Measuring-App)
 
 ## 💼 Where I am currently working at/ studying
+- [Dell Technologies](https://jobs.dell.com/en/itpoland): Focusing on PowerStore (internship)
 - [Pegasystems](https://www.pega.com): Working on an application supporting the learning process that utilizes Generative AI to create a knowledge assessment test based on entered topics. (university project)
 - [Jagielloński University](https://en.uj.edu.pl): Computer Science
   
