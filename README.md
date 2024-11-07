@@ -2,19 +2,19 @@
 
 I'm a software engineer with a passion towards Machine Learning, currently studying at Jagielloński University.
 
-## 🛠 Skills
+## Skills
 - Language: Python, C++, Java, Bash
 - Framework: Django, React, FastAPI
 - Database: MySQL
 - Tools: Git, Linux
 
-## 📈 GitHub Stats
+## Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikgrycz&layout=compact" height="195">
 </p>
 
-## 📫 How to reach me
+## How to reach me
 You can reach me at mikolajgrycz@gmail.com, or on [LinkedIn](https://www.linkedin.com/in/mikołaj-grycz-964235185)
 
 ## 🚀 Some of my main projects
