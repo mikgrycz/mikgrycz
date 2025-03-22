@@ -15,14 +15,14 @@ I'm a software engineer with a passion towards Machine Learning, currently study
 </p>
 
 ## How to reach me
-You can reach me at mikolajgrycz@gmail.com, or on [LinkedIn](https://www.linkedin.com/in/mikołaj-grycz-964235185)
+You can reach me on [LinkedIn](https://www.linkedin.com/in/mikołaj-grycz-964235185)
 
 ## 🚀 Some of my main projects
 - [Car Selling Platform](https://github.com/mikgrycz/Car-selling-platform)
 - [Typing Speed Measuring App](https://github.com/mikgrycz/Typing-Speed-Measuring-App)
 
-## 💼 Where I am currently working at/ studying
-- [Dell Technologies](https://jobs.dell.com/en/itpoland): Focusing on PowerStore (internship)
+## Where I am currently working at/ studying
+- [Dell Technologies](https://jobs.dell.com/en/itpoland): Focusing on PowerStore servicing and quality assurance; working on testing/ automation pipelines
 - [Pegasystems](https://www.pega.com): Working on an application supporting the learning process that utilizes Generative AI to create a knowledge assessment test based on entered topics. (university project)
 - [Jagielloński University](https://en.uj.edu.pl): Computer Science
   
