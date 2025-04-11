@@ -1,6 +1,6 @@
-# Hello there! I'm Mikołaj
+# Hello there! 
 
-I'm a software engineer with a passion towards Machine Learning, currently studying at Jagielloński University.
+I'm a SWE Intern at Dell. Currently also studying at Jagielloński University.
 
 ## Skills
 - Language: Python, C++, Java, Bash
@@ -10,14 +10,14 @@ I'm a software engineer with a passion towards Machine Learning, currently study
 
 ## Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikgrycz&layout=compact" height="195">
 </p>
 
 ## How to reach me
 You can reach me on [LinkedIn](https://www.linkedin.com/in/mikołaj-grycz-964235185)
 
-## 🚀 Some of my main projects
+## Some of my main projects
 - [Car Selling Platform](https://github.com/mikgrycz/Car-selling-platform)
 - [Typing Speed Measuring App](https://github.com/mikgrycz/Typing-Speed-Measuring-App)
 
@@ -25,9 +25,7 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/mikołaj-grycz-964235
 - [Dell Technologies](https://jobs.dell.com/en/itpoland): Focusing on PowerStore servicing and quality assurance; working on testing/ automation pipelines
 - [Pegasystems](https://www.pega.com): Working on an application supporting the learning process that utilizes Generative AI to create a knowledge assessment test based on entered topics. (university project)
 - [Jagielloński University](https://en.uj.edu.pl): Computer Science
-  
-## 📚 What I am currently learning
-- Diving into ML
+
 <!--
 **mikgrycz/mikgrycz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
