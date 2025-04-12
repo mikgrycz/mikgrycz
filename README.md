@@ -15,7 +15,6 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/mikołaj-grycz-964235
 
 ## My current focus
 - [Dell Technologies](https://jobs.dell.com/en/itpoland): Focusing on PowerStore servicing and quality assurance; working on testing/ automation pipelines
-- [Pegasystems](https://www.pega.com): Working on an application supporting the learning process that utilizes Generative AI to create a knowledge assessment test based on entered topics. (university project)
 - [Jagielloński University](https://en.uj.edu.pl): Computer Science (MSc)
 
 <!--
